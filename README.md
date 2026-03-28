@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/cover-image.svg" alt="claude-image-prompt" width="100%" /></p>
+
 # claude-image-prompt
 
 AI image prompt generation skill for Claude Code -- optimized prompts for DALL-E 3, Midjourney, and Stable Diffusion XL.
