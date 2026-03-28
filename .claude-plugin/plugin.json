@@ -1,0 +1,12 @@
+{
+  "name": "claude-image-prompt",
+  "version": "1.0.0",
+  "description": "AI image prompt generation skill for Claude Code -- optimized prompts for DALL-E 3, Midjourney, Stable Diffusion XL, Flux, Ideogram, and Leonardo AI.",
+  "author": "creo-kit",
+  "license": "MIT",
+  "homepage": "https://github.com/creo-kit/claude-image-prompt",
+  "entry_point": "skills/creo-image-prompt/SKILL.md",
+  "skills": [
+    "skills/creo-image-prompt/SKILL.md"
+  ]
+}
